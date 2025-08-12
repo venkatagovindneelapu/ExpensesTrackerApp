@@ -160,7 +160,7 @@ npm install
 Update `constants/api.js` to point to your backend URL:
 
 ```js
-export const API_URL = "https://expensetracker-r7pb.onrender.com/api";
+export const API_URL = "https://expensetracker-xxxxxxxxxxxxxxx.com/api";
 ```
 
 Run the mobile app:
